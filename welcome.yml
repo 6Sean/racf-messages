@@ -6,14 +6,16 @@ embeds:
       As you know, RoyaleAPI.com is the definitive destination for esports teams and professional players looking to get an edge. The website started out as a proof-of-concept for our own API but has since grown into a data-rich content analytics site, serving players around the world to explore and discover the best meta decks to play while playing the game, as well as providing useful tools to manage their clan and clan families better.
     fields:
       - name: :helmet_with_cross: Need Help?
-        value: Look at our user list and ask any 'Family Lead' for help.  You'll also be able to notice those individuals as our Co-Leaders (CR) and Vice Presidents (BS) are generally *orange* while our Leaders and Moderators are *red*.
+        value: |
+          Look at our user list and ask any 'Family Lead' for help.  You'll also be able to notice those individuals as our Co-Leaders (CR) and Vice Presidents (BS) are generally *orange* while our Leaders and Moderators are *red*.
       - name: :hammer: Rules
         value: |
           - No spamming\n- No advertisement of any kind (e.g. Facebook, Twitter, YouTube)\n- No excessive tagging - abusing our notification anxiety is forbidden!\n- Friend Invite Links for CR & BS go in the #friendlinks channel ONLY\n- #bot-commands should be used for all of your robot ninja needs\n
       - name: Failure to comply with these simple requests to keep our community happy & healthy may result in your removal.
-        value: :cry:
+        value: |
+          :cry:
       - name: New & Existing Family Members
-        value: >
+        value: |
           + If you've had roles before, head to #bot-commands and use !auditme
           + If you've just joined our family in-game and need roles, please request them in #join-our-family
   - title: Join Our Family
