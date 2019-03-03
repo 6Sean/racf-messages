@@ -13,7 +13,7 @@ embeds:
       - name: Help
         value: If you need help at any time, message one of our FAMILYLEAD members from the user list --->
       - name: Rules
-        value: >
+        value: |
           ```diff\n
           - No spamming\n
           - No advertisement of any kind (e.g. Facebook, Twitter, YouTube)\n
