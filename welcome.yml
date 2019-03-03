@@ -12,34 +12,32 @@ embeds:
       1. Text
       2. **Bold**\n
       3. ~~Strike~~
-    fields:
-      - name: Help
-        value: If you need help at any time, message one of our FAMILYLEAD members from the user list --->
-      - name: Rules
-        value: |
-          ```diff\n
-          - No spamming\n
-          - No advertisement of any kind (e.g. Facebook, Twitter, YouTube)\n
-          - No excessive tagging - abusing our notification anxiety is forbidden!\n
-          - Friend Invite Links for CR & BS go in the #friendlinks channel ONLY\n
-          - #bot-commands should be used for all of your robot ninja needs\n
-          ```
+  - title: Help
+    description: > 
+      If you need help at any time, message one of our FAMILYLEAD members from the user list --->
+  - title: Rules
+    description:: |
+      ```diff\n
+      - No spamming\n
+      - No advertisement of any kind (e.g. Facebook, Twitter, YouTube)\n
+      - No excessive tagging - abusing our notification anxiety is forbidden!\n
+      - Friend Invite Links for CR & BS go in the #friendlinks channel ONLY\n
+      - #bot-commands should be used for all of your robot ninja needs\n
+      ```
 
-          **Failure to comply with these simple requests to
-          keep our community happy & healthy may result in your removal.**\n
-          
-      - name: Next Steps
-        value: >
-          + Scroll down to learn more about our family, channels, and roles
+      **Failure to comply with these simple requests to
+      keep our community happy & healthy may result in your removal.**\n
+  - title: Next Steps
+    description: >
+      + Scroll down to learn more about our family, channels, and roles
 
-          + Head over to #lounge to start chatting
+      + Head over to #lounge to start chatting
 
-          + Jump over to #join-our-family to find out how to join
-
-      - name: New & Existing Family Members
-        value: >
-          + If you've had roles before, head to #bot-commands and use !auditme
-          + If you've just joined our family in-game and need roles, please request them in #join-our-family
+      + Jump over to #join-our-family to find out how to join
+  - title: New & Existing Family Members
+    description: >
+      + If you've had roles before, head to #bot-commands and use !auditme
+      + If you've just joined our family in-game and need roles, please request them in #join-our-family
   - title: Join Our Family
     description: >
       The RoyaleAPI Clan Family was originally known as the Reddit Alpha Clan Family
@@ -51,12 +49,11 @@ embeds:
       Our clan family boasts a top 25 global flagship clan and a system of
       "feeder" clans where we help our players learn, grow, and enhance their skills
       through a highly active & supportive discord server.
-    fields:
-      - name: Interested in joining?
-        value: >
-          Let us know in the #join-our-family channel.
-          Simply tell us your player tag and which game you want to join us in
-          (Clash Royale or Brawl Stars) and we’ll take it from there
+  - title: Interested in joining?
+    description: >
+      Let us know in the #join-our-family channel.
+      Simply tell us your player tag and which game you want to join us in
+      (Clash Royale or Brawl Stars) and we’ll take it from there
   - title: Channels
     fields:
       - name: General RoyaleAPI.com Users
