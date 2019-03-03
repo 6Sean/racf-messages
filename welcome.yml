@@ -84,6 +84,7 @@ embeds:
           #discordgram - our version of family instagram, but on Discord
 
       - name: Clash Royale Channels (Family Only!)
+        inline: true
         value: >
           This family-only category includes social channels, trade channels, and the following:
 
@@ -92,6 +93,7 @@ embeds:
           #decks - posts decks from every GC win across the game
 
       - name: Brawl Stars Channels (Family Only!)
+        inline: true
         value: >
           This family-only category includes social channels and our #bs-strategy channel where you can talk about the latest balance changes and get tips & tricks from our top BS players.
   - title: Documentation
