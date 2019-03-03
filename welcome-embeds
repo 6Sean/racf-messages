@@ -1,0 +1,81 @@
+************************************************************************
+Notes for SML:
+I built these using the following link:
+https://leovoel.github.io/embed-visualizer/
+
+Check DM for images of what the output looks like.
+************************************************************************
+
+{
+  "embed": {
+    "image": {
+      "url": "https://github.com/RoyaleAPI/cr-api-assets/blob/master/logo/royaleapi-bg-dark.png?raw=true"
+    }
+  }
+}
+
+{
+  "embed": {
+    "title": ":wave: Welcome",
+    "description": "As you know, RoyaleAPI.com is the definitive destination for esports teams and professional players looking to get an edge. The website started out as a proof-of-concept for our own API but has since grown into a data-rich content analytics site, serving players around the world to explore and discover the best meta decks to play while playing the game, as well as providing useful tools to manage their clan and clan families better.",
+    "color": 4742660,
+    "fields": [
+      {
+        "name": ":helmet_with_cross: Need Help?",
+        "value": "Look at our user list and ask any 'Family Lead' for help.  You'll also be able to notice those individuals as our Co-Leaders (CR) and Vice Presidents (BS) are generally *orange* while our Leaders and Moderators are *red*."
+      },
+      {
+        "name": ":hammer: Rules",
+        "value": "- No spamming\n- No advertisement of any kind (e.g. Facebook, Twitter, YouTube)\n- No excessive tagging - abusing our notification anxiety is forbidden!\n- Friend Invite Links for CR & BS go in the #friendlinks channel ONLY\n- #bot-commands should be used for all of your robot ninja needs\n"
+      },
+      {
+        "name": "Failure to comply with these simple requests to keep our community happy & healthy may result in your removal.",
+        "value": ":cry:"
+      }
+    ]
+  }
+}
+
+{
+  "embed": {
+    "title": ":stairsteps: Next Steps",
+    "description": "**Hang out**\nScroll down to learn more OR pop straight over to #lounge to start chatting\n\n**Join the RoyaleAPI Clan Family**\nJump over to #join-our-family and let us know your player tag and which game you're interested in (Clash Royale or Brawl Stars)!\n\n",
+    "color": 4742660,
+    "fields": [
+      {
+        "name": ":family: New & Existing Family Members",
+        "value": "**Been here before?**\nHead to #bot-commands and use `!auditme`\n\n**Just joined?**\nIf you've just joined our family in-game and need roles...welcome!  Please request your roles in the #join-our-family channel"
+      }
+    ]
+  }
+}
+
+{
+  "embed": {
+    "title": ":logo: About Our Family",
+    "description": "The RoyaleAPI Clan Family was originally known as the Reddit Alpha Clan Family and then briefly as the 100 Thieves Clan Family. Home to professional players that eventually moved on to play at CRNAO, King’s Cup, and CRL, our family fosters an environment where casual and competitive styles of play can both flourish.\n\nOur clan family boasts a top 25 global flagship clan and a system of feeder clans where we help our players learn, grow, and enhance their skills through a highly active & supportive Discord server.\n\n",
+    "color": 4742660,
+    "fields": [
+      {
+        "name": ":raised_hands: Interested in joining?",
+        "value": "Let us know in the #join-our-family channel. Simply tell us your player tag and which game you want to join us in (Clash Royale or Brawl Stars) and we’ll take it from there!\n\n"
+      },
+      {
+        "name": ":crossed_swords: About Royale Rating",
+        "value": "**Royale Rating (RR)**, developed by [RoyaleAPI](http://royaleapi.com), aims to give each player a score related to their skill. The rating system tackles several disadvantage of Elo and is able to quickly hone into an individual’s true skill rating in a short amount of time. Additionally, the system can calculate ratings for individual players even when they participate in multi-player settings, e.g. 2v2 and more.  More information can be found in our [documentation](https://royalerating.royaleapi.com/#/README).\n\n"
+      },
+      {
+        "name": ":trophy: Royale Rating Events",
+        "value": "We're working on some exclusive events that leverage our Royale Rating.  If you want to be a part of that, you should head over to #rr-instructions and verify your account."
+      }
+    ]
+  }
+}
+
+{
+  "embed": {
+    "title": ":book: Documentation",
+    "description": "If you require further assitance with our Discord server, you can read the docs at https://fam.royaleapi.com/",
+    "color": 4742660
+  }
+}
