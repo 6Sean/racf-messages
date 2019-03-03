@@ -2,7 +2,7 @@ embeds:
   - image:
       url: https://github.com/RoyaleAPI/cr-api-assets/blob/master/logo/royaleapi-bg-dark.png?raw=true
   - title: YAML IS ANNOYING :(
-    description: >
+    description: |
       A real pain in the ass.
       ```diff\n
       - red\n
