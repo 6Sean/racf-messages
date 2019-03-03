@@ -9,6 +9,17 @@ embeds:
       content analytics site, serving players around the world to explore and
       discover the best meta decks to play while playing the game, as well as
       providing useful tools to manage their clan and clan families better.
+  - title: YAML IS ANNOYING :(
+    description: >
+      A real pain in the ass.
+      ```diff\n
+      - red\n
+      + green\n
+      ```\n
+
+      1. Text
+      2. **Bold**\n
+      3. ~~Strike~~
     fields:
       - name: Help
         value: If you need help at any time, message one of our FAMILYLEAD members from the user list --->
