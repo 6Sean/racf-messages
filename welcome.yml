@@ -14,17 +14,16 @@ embeds:
         value: If you need help at any time, message one of our FAMILYLEAD members from the user list --->
       - name: Rules
         value: >
-          ```diff
-          - No spamming
-          - No advertisement of any kind (e.g. Facebook, Twitter, YouTube)
-          - No excessive tagging - abusing our notification anxiety is forbidden!
-          - Friend Invite Links for CR & BS go in the #friendlinks channel ONLY
-          - #bot-commands should be used for all of your robot ninja needs
+          ```diff\n
+          - No spamming\n
+          - No advertisement of any kind (e.g. Facebook, Twitter, YouTube)\n
+          - No excessive tagging - abusing our notification anxiety is forbidden!\n
+          - Friend Invite Links for CR & BS go in the #friendlinks channel ONLY\n
+          - #bot-commands should be used for all of your robot ninja needs\n
           ```
 
           **Failure to comply with these simple requests to
-          keep our community happy & healthy may result in your removal.**
-          ` `
+          keep our community happy & healthy may result in your removal.**\n
       - name: Next Steps
         value: >
           + Scroll down to learn more about our family, channels, and roles
